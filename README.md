@@ -181,6 +181,9 @@
 
 如果你有任何问题或建议，请通过以下方式联系我们：
 - 邮箱: 642933588@qq.com
+- 加V请备注：大数据
+
+![WechatIMG182](https://github.com/user-attachments/assets/db0fa36a-9478-49e4-8e15-07b22a8ae376)
 
 ![image](https://github.com/642933588/jiron-cloud/assets/10755257/146fa604-986a-4202-ba27-fa7842eb9a20)
 
