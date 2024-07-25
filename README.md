@@ -91,7 +91,7 @@
 
 ## 安装
 
-（详细说明如何安装和配置各组件，包括前置条件、步骤和示例配置文件）
+加入知识星球，获取部署资料
 
 ## 演示
 
@@ -188,7 +188,7 @@
 ## 联系我们
 
 - 邮箱: 642933588@qq.com（qq同号）
-- 加V请注明来意
+- 加V请注明来意：smallfortheuniverse
 
 ![WechatIMG182](https://github.com/user-attachments/assets/db0fa36a-9478-49e4-8e15-07b22a8ae376)
 
