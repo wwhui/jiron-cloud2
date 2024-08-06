@@ -15,6 +15,7 @@
 - [架构](#架构)
 - [安装](#安装)
 - [演示](#演示)
+- [实践](#实践)
 - [贡献](#贡献)
 - [许可](#许可)
 - [联系方式](#联系方式)
@@ -174,6 +175,9 @@
 ![6-1](https://github.com/642933588/dataworks/assets/10755257/15cfa63a-730a-4c1e-80bd-3f27a78a643f)
 ![9-1](https://github.com/642933588/dataworks/assets/10755257/81f52c8a-0793-49a7-a935-388dd467f19c)
 ![9-2](https://github.com/642933588/dataworks/assets/10755257/375e8ab1-0748-4e8f-b015-cf2e83a8abc9)
+
+## 实践
+《实时数仓（数据湖）实战》是一个以电商系统为基础，围绕电商业务指标统计需求而构建的实时数仓（数据湖）项目，涉及组件flink、paimon、doris、seatunnel、dolphinscheduler、datart、dinky、hudi、iceberg。通过该项目，可以快速掌握实时数仓（数据湖）基本概念、数仓分层构建步骤及所涉及各类大数据组件实战用法。代码地址：https://github.com/Mrkuhuo/data-warehouse-learning
 
 ## 贡献指南
 
